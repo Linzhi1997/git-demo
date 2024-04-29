@@ -13,4 +13,4 @@ hello serena! hello git!
 hello serena! hello git!
 hello serena! hello git!
 hello serena! hello git!
-hello serena! hello git!
+hello serena! hello git! hot-fix test
